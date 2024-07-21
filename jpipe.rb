@@ -5,7 +5,7 @@ class Jpipe < Formula
     homepage "https://github.com/ace-design/jpipe"
 
     url "https://github.com/ace-design/jpipe/releases/download/0.2.0/jpipe-0.2.0.tar.gz"
-    sha256 "8cb6e431e63d0cf43f8e6d6f9cece4facecec0dcd71b293819e7fa1ec36a6a77"
+    sha256 "dc87675c648e31f006bb09137da2e1ff8d3066be39b1d5a15a79615e18bbbe0b"
 
     depends_on "graphviz"
     depends_on "openjdk@21"
